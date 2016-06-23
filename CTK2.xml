@@ -14,7 +14,7 @@
         </value>
         <next>
           <block type="oled_drawtext" id="52">
-            <field name="TEXT">my mommy likes poo</field>
+            <field name="TEXT">hockey</field>
           </block>
         </next>
       </block>
